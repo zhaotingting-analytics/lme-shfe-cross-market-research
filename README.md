@@ -51,5 +51,4 @@ Planned methods include:
 
 ## Disclaimer
 
-This project is for research and educational purposes only and does not
-constitute investment advice.
+This project is for research and educational purposes only and does not constitute investment advice.
